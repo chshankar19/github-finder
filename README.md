@@ -49,7 +49,7 @@ The app will open at http://localhost:3000.
 5. Deployment
 This app is deployed using Vercel. You can visit the live version of the app here:
 
-Live App ([Add your Vercel deployment URL here](https://githubfinder-one-zeta.vercel.app/))
+Live App ([github-finder](https://githubfinder-one-zeta.vercel.app/))
 
 Contributing
 Feel free to fork the repository and submit pull requests for improvements, new features, or bug fixes.
